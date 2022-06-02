@@ -10,7 +10,8 @@ Date: May 28, 2022
    • IT Services Lists with tags
    • IT Services Complete Steps
    • Video
-   • Issues & Solve 
+   • Issues & Solve
+   • Current Services 
 
 3. Tools
    • Background Remover
@@ -84,5 +85,21 @@ Date: May 28, 2022
   • Business License
   • Business Structures
   • Agreements Files
-  • NTech Documents
+  • NTech Documents 
+
+11. Installation From INFC (May 30, 2022) 
+
+12. Essential Environment
+   ✔️ QR Generator, QR Scanner
+   ✔️ Accurate Time
+  • https://worldtimeapi.org/api/timezone/Asia/Dhaka
+  • https://github.com/cozmo/jsQR
+  • https://github.com/SumiMakito/Awesome-qr.js
+  
+13. Data Visualization & Analysis (Jun 01, 2022)
+  • Apexcharts
+  • Daily Basis Income
+  • Monthly Basis Income
+  • Debit Credit
+  • Item Basis Debit Credit
 ```
